@@ -3,8 +3,9 @@ imutils
 opencv-python>=4.1.0.25
 scipy
 mac-tag
-psd-tools3
+pillow
 lpips
 PyMuPDF
 scikit-learn
 scikit-image
+git+https://github.com/antitheos/psd-tools3 
